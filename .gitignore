@@ -1,0 +1,8 @@
+CodexPeek.settings.json
+CodexPeek.demo.settings.json
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.tmp
